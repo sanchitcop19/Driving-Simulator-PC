@@ -244,6 +244,7 @@
     <Compile Include="Assets\RoadArchitect\Spline\GSDSplineF.cs" />
     <Compile Include="Assets\RoadArchitect\Spline\GSDSplineI.cs" />
     <Compile Include="Assets\RoadArchitect\Spline\GSDSplineN.cs" />
+    <Compile Include="Assets\Scripts\un.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\RoadArchitect\LICENSE.txt" />
